@@ -1,0 +1,1 @@
+FROM etherpad/etherpad
